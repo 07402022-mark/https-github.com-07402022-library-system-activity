@@ -1,0 +1,21 @@
+# Student Library Management System
+
+Simple OOP PHP Library System project.
+
+## Author
+- Your Name
+
+## Features
+- Add books
+- Borrow books
+- Calculate fines
+
+## Requirements
+- PHP 8
+- MySQL
+- Git
+
+## PSR-12
+- Uses strict types
+- Uses namespaces
+- Uses 4-space indentation
